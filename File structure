@@ -1,0 +1,13 @@
+bot-web-interface/
+├── README.md
+├── backend/
+│   ├── requirements.txt
+│   ├── main.py
+│   └── .env.example
+└── frontend/
+    ├── package.json
+    ├── public/
+    │   └── index.html
+    └── src/
+        ├── index.js
+        └── App.js
